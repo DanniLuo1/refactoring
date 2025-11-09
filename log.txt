@@ -1,0 +1,5 @@
+453b1fc Task 1.1: Fix CheckStyle issues in all Java files
+b545fe2 clarifying extracted method names in README.md
+a0124c9 fixing starter file
+c8d9d38 adding starter files
+cbe4517 first commit
