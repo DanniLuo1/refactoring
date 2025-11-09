@@ -1,3 +1,4 @@
+0992fb0 Task 2.4: Split loops and extract total calculation methods
 15be895 Task 2.3: Extract usd method and remove frmt variable
 2d66b25 Task 2.2: Extract getVolumeCredits method
 908beea Task 2.1: Extract getAmount method and remove play parameter
