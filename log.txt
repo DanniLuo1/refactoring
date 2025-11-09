@@ -1,3 +1,4 @@
+908beea Task 2.1: Extract getAmount method and remove play parameter
 18e30ce Task 1.2: Update git log
 453b1fc Task 1.1: Fix CheckStyle issues in all Java files
 b545fe2 clarifying extracted method names in README.md
