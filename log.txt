@@ -1,3 +1,4 @@
+15be895 Task 2.3: Extract usd method and remove frmt variable
 2d66b25 Task 2.2: Extract getVolumeCredits method
 908beea Task 2.1: Extract getAmount method and remove play parameter
 18e30ce Task 1.2: Update git log
